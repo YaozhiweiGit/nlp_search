@@ -8,12 +8,15 @@
 @Contact :   1322093265@qq.com
 '''
 
+
+#http://192.168.0.29:5000/nlp_search?keyword=
+
 # here put the import lib
 from  flask import  request,Flask,jsonify
 import flask
 import json
-
 import synonyms
+# import ssl ssl._create_default_https_context = ssl._create_unverified_context
 # print("飞机： ",synonyms.nearby("飞机"))
 # #首先app = Flask(__name__)这部分是一个初始化的过程;__name__代表当前的python文件。把当前的python文件当做一个服务启动
 app = Flask(__name__)

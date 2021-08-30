@@ -1,0 +1,15 @@
+click @ file:///D:/bld/click_1621503984716/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+dataclasses @ file:///home/conda/feedstock_root/build_artifacts/dataclasses_1628958434797/work
+Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1621629915293/work
+itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1621360792037/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1621419064915/work
+joblib==1.0.1
+MarkupSafe @ file:///D:/bld/markupsafe_1621455847127/work
+numpy==1.21.2
+scikit-learn==0.24.2
+scipy==1.7.1
+six==1.16.0
+synonyms==3.16.0
+threadpoolctl==2.2.0
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1621518206714/work
